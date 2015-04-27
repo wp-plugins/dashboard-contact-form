@@ -1,7 +1,7 @@
 === Dashboard Contact Form ===
 Contributors: Papik81
 Tags: dashboard, message form, contact form, dashboard widget, user info
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ER96JFW7V7UJG&lc=CZ&amount=5%2e00¤cy_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ripasu%40volny%2ecz&item_name=Dashbopard%20Contact%20Form%20Donation&item_number=Support%20Open%20Source&no_shipping=0&no_note=1&tax=0&currency_code=USD&amount=5&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
 Requires at least: 3.5
 Tested up to: 4.2.1
 License: GPLv2
@@ -31,5 +31,9 @@ The simplest way to reset the password is uninstaling the plugin and reinstallin
 4. You can use widget free of form just for information to other users.
 
 == Changelog ==
-1.0.0 - release version
-1.0.1 - fixes issues in setttings page for changing password
+
+= Version 1.0.0 =
+* release version
+ 
+ = Version 1.0.1 =
+* Bugfix: fixes issues in setttings page for changing password
