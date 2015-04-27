@@ -14,14 +14,14 @@ Allows to create a simple dashboard widget for users to inform them and aloww th
 
 
 == Installation ==
-Best is to install directly from WordPress. If manual installation is required, please make sure that the plugin files are in a folder named \"custom-dashboard-widget\" (not two nested folders) in the WordPress plugins folder, usually \"wp-content/plugins\".
+Best is to install directly from WordPress. If manual installation is required, please make sure that the plugin files are in a folder named "custom-dashboard-widget" (not two nested folders) in the WordPress plugins folder, usually "wp-content/plugins".
 
 == Frequently Asked Questions ==
 ### Where can I edit the form? ###
-Go to Settings and look for the \"Custom Dashboard Widget\".
+Go to Settings and look for the "Custom Dashboard Widget".
 
 ###  When I set the password to lock editing the widget and forget it, is there a way to reset it? ###
-The simplest way to reset the password is uninstaling the plugin and reinstalling it. Second, more complicated is for advanced users: go to your options table in your database (typically \"wp_options\"), find a value to name \"cdw_password\" and delete it, before saving it choose from functions \"md5\" (you may also type your own password rather than leaving it blank). The md5 value for a blank password should be \"d41d8cd98f00b204e9800998ecf8427e\".
+The simplest way to reset the password is uninstaling the plugin and reinstalling it. Second, more complicated is for advanced users: go to your options table in your database (typically "wp_options"), find a value to name "cdw_password" and delete it, before saving it choose from functions "md5" (you may also type your own password rather than leaving it blank). The md5 value for a blank password should be "d41d8cd98f00b204e9800998ecf8427e".
 
 
 == Screenshots ==
