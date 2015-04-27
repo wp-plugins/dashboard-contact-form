@@ -24,3 +24,4 @@ najdìte název hodnoty \"cdw_password\" a smažte jej, a pøed uložením vyberte fun
 
 == Changelog ==
 1.0.0 - výchozí verze
+1.0.1 - oprava chyb související se zmìnou hesla na stránce nastavení
