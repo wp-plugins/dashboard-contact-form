@@ -32,3 +32,4 @@ The simplest way to reset the password is uninstaling the plugin and reinstallin
 
 == Changelog ==
 1.0.0 - release version
+1.0.1 - fixes issues in setttings page for changing password
