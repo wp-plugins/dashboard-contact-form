@@ -31,5 +31,9 @@ The simplest way to reset the password is uninstaling the plugin and reinstallin
 4. You can use widget free of form just for information to other users.
 
 == Changelog ==
-1.0.0 - release version
-1.0.1 - fixes issues in setttings page for changing password
+
+= Version 1.0.0 =
+* release version
+ 
+ = Version 1.0.1 =
+* Bugfix: fixes issues in setttings page for changing password
