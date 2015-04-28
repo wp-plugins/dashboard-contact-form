@@ -1,0 +1,29 @@
+#cdw_widget img {
+ max-width: 100%;
+ height: auto;
+}
+#cdw_widget img.aligncenter {
+ display: block;
+ margin: 5px auto;
+}
+#cdw_widget img.alignleft {
+ float: left;
+ margin: 5px 20px 5px 0px;
+}
+#cdw_widget img.alignright{
+ float: right;
+ margin: 5px 0px 5px 20px;
+}
+#cdw_widget a {
+ text-decoration: underline;
+}
+#cdw_widget a :hover{
+ text-decoration: none;
+}
+#cdw_widget blockquote {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+    margin: 24px 40px;
+	quotes: none;
+}
