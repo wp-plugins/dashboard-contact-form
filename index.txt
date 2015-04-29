@@ -3,7 +3,7 @@
  * Plugin Name: Dashboard Contact Form
  * Plugin URI: http://www.papik-wordpress.eu/plugins/dashboard-contact-form/
  * Description: Custom dashboard widget with optional contact form
- * Version: 1.0.3
+ * Version: 1.0.3.1
  * Author: Pavel Riha
  * Author URI: http://www.larx.cz
  * Network: true
