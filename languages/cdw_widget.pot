@@ -1,0 +1,218 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Larx widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jan 22 2015 22:59:42 GMT+0100\n"
+"POT-Revision-Date: Wed Apr 29 2015 13:31:59 GMT+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../index.php:56 ../settings.php:25 ../settings.php:90
+msgid "Dashboard Contact Form"
+msgstr ""
+
+#: ../index.php:57
+#, php-format
+msgid "This is example text. You can change it <a href=\"%s\">here</a>."
+msgstr ""
+
+#: ../index.php:59 ../settings.php:102
+msgid "Contact us:"
+msgstr ""
+
+#: ../index.php:60 ../settings.php:104 ../widget.php:74
+msgid "Message Title"
+msgstr ""
+
+#: ../index.php:61 ../settings.php:105 ../widget.php:79
+msgid "Type here your message."
+msgstr ""
+
+#: ../settings.php:11 ../settings.php:11
+msgid "Dashboard Contact Form options"
+msgstr ""
+
+#: ../settings.php:26
+msgid "Type your secret password to edit Dashboard Contact Form:"
+msgstr ""
+
+#: ../settings.php:28
+msgid "Type password:"
+msgstr ""
+
+#: ../settings.php:29
+msgid "Enter"
+msgstr ""
+
+#: ../settings.php:57
+msgid ""
+"Email has invalid format, not updated. Other settings saved. (You may have "
+"only one e-mail in this field)."
+msgstr ""
+
+#: ../settings.php:58
+msgid "All settings successfully saved."
+msgstr ""
+
+#: ../settings.php:69
+msgid "Password succesfully changed."
+msgstr ""
+
+#: ../settings.php:73
+msgid "New passwords mismatch, password NOT updated!"
+msgstr ""
+
+#: ../settings.php:78
+msgid "Current password invalid, password NOT updated!"
+msgstr ""
+
+#: ../settings.php:93
+msgid "Title"
+msgstr ""
+
+#: ../settings.php:94
+msgid "Message"
+msgstr ""
+
+#: ../settings.php:99
+msgid "E-mail*:"
+msgstr ""
+
+#: ../settings.php:100
+msgid "Copy (optional):"
+msgstr ""
+
+#: ../settings.php:101
+msgid "(You can input multiple e-mails separated by a coma -  ',')"
+msgstr ""
+
+#: ../settings.php:102
+msgid "Form title:*"
+msgstr ""
+
+#: ../settings.php:104
+msgid "Title placeholder:*"
+msgstr ""
+
+#: ../settings.php:105
+msgid "Message placeholder:*"
+msgstr ""
+
+#: ../settings.php:112
+msgid "Display for roles:"
+msgstr ""
+
+#: ../settings.php:112
+msgid "Enable contact form for roles:"
+msgstr ""
+
+#: ../settings.php:128
+msgid "Save"
+msgstr ""
+
+#: ../settings.php:130
+msgid "E-mail address where will be delivered all messages from the contact form"
+msgstr ""
+
+#: ../settings.php:133
+msgid "Set or change password"
+msgstr ""
+
+#: ../settings.php:137
+msgid "Enter current password:"
+msgstr ""
+
+#: ../settings.php:138
+msgid "Enter new password:"
+msgstr ""
+
+#: ../settings.php:139
+msgid "Confirm new password:"
+msgstr ""
+
+#: ../settings.php:140
+msgid "Set new password:"
+msgstr ""
+
+#: ../settings.php:143
+msgid "(Current password is blank.)"
+msgstr ""
+
+#: ../settings.php:145
+msgid ""
+"If you like this plugin, you can click on the 'Donate' button here (opens a "
+"new window) and send me 5$. Thank you!"
+msgstr ""
+
+#: ../widget.php:43
+msgid "Submitting message"
+msgstr ""
+
+#: ../widget.php:44
+msgid "Fill in all fields, some fields are empty"
+msgstr ""
+
+#: ../widget.php:45
+msgid "I need help..."
+msgstr ""
+
+#: ../widget.php:66
+msgid "Sender:"
+msgstr ""
+
+#: ../widget.php:67
+msgid "Receiver:"
+msgstr ""
+
+#: ../widget.php:73
+msgid "Title:"
+msgstr ""
+
+#: ../widget.php:78
+msgid "Please describe your problem here:"
+msgstr ""
+
+#: ../widget.php:85
+msgid "Send message"
+msgstr ""
+
+#: ../widget.php:86
+msgid "Sending Message"
+msgstr ""
+
+#: ../widget.php:106
+#, php-format
+msgid ""
+"This message has been sent from <strong>%1$s</strong> at "
+"<strong>%2$s</strong> by user <strong>%3$s</strong>."
+msgstr ""
+
+#: ../widget.php:119
+#, php-format
+msgid "Message succesfully sent to <strong>%s</strong>"
+msgstr ""
+
+#: ../widget.php:120
+msgid "Couldn't send message."
+msgstr ""
+
+#: ../widget.php:122
+msgid "Sending message failed due to empty verification"
+msgstr ""
