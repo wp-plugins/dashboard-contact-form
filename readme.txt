@@ -50,5 +50,5 @@ The simplest way to reset the password is uninstaling the plugin and reinstallin
 * Improved formatting on contact form
 * Bugfix: default settings, on install is widget and contact form enabled for ALL roles
 
-= Version 1.0.3 =
+= Version 1.0.3.1 =
 * Bugfix: fixed formatting in settings :)
