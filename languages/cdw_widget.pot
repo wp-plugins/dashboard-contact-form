@@ -1,0 +1,328 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Dashboard Widget & Dashboard Contact Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat May 02 2015 00:00:04 GMT+0200\n"
+"POT-Revision-Date: Wed May 06 2015 16:14:36 GMT+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../index.php:83 ../settings.php:84 ../settings.php:142
+msgid "Dashboard Contact Form"
+msgstr ""
+
+#: ../index.php:84
+#, php-format
+msgid ""
+"<img class=\"aligncenter size-medium\" src=\"%s\" alt=\"larx-logo\" width=\"300\" "
+"height=\"96\" /><p style=\"text-align: center;\">This is example text. You can "
+"change it <a href=\"%s\">here</a>.</p>"
+msgstr ""
+
+#: ../index.php:86
+msgid "Contact us:"
+msgstr ""
+
+#: ../index.php:87
+msgid ""
+"<strong>Sender:</strong> %SENDER_NAME%&lt;%SENDER_EMAIL%&gt;<br />\n"
+"<strong>Receiver:</strong> %TARGET_EMAIL%"
+msgstr ""
+
+#: ../index.php:88 ../settings.php:166
+msgid "Message Title"
+msgstr ""
+
+#: ../index.php:89
+msgid "Type here your message."
+msgstr ""
+
+#: ../settings.php:12 ../settings.php:12
+msgid "Dashboard Contact Form options"
+msgstr ""
+
+#: ../settings.php:28
+msgid "Password succesfully changed."
+msgstr ""
+
+#: ../settings.php:31
+msgid "New passwords mismatch, password NOT updated!"
+msgstr ""
+
+#: ../settings.php:36
+msgid "Current password invalid, password NOT updated!"
+msgstr ""
+
+#: ../settings.php:43
+#, php-format
+msgid ""
+"E-mail with link to reset this plugin password has been mailed to site admin "
+"on <strong>%s</strong>."
+msgstr ""
+
+#: ../settings.php:47
+#, php-format
+msgid "Failed to send message to site admin on <strong>%s</strong>."
+msgstr ""
+
+#: ../settings.php:55
+msgid "Please enter your new password:"
+msgstr ""
+
+#: ../settings.php:58 ../settings.php:213
+msgid "Enter new password:"
+msgstr ""
+
+#: ../settings.php:59 ../settings.php:214
+msgid "Confirm new password:"
+msgstr ""
+
+#: ../settings.php:61 ../settings.php:215
+msgid "Set new password"
+msgstr ""
+
+#: ../settings.php:69
+msgid "Error: Authentization key is outdated, password NOT deleted!"
+msgstr ""
+
+#: ../settings.php:79
+msgid "Error: invalid password"
+msgstr ""
+
+#: ../settings.php:85
+msgid "Type your secret password to edit Dashboard Contact Form:"
+msgstr ""
+
+#: ../settings.php:87
+msgid "Type password:"
+msgstr ""
+
+#: ../settings.php:88
+msgid "Remeber password:"
+msgstr ""
+
+#: ../settings.php:89
+msgid "Enter"
+msgstr ""
+
+#: ../settings.php:89
+#, php-format
+msgid ""
+"Do you really want to reset this password? Mail with reset url will be sent "
+"to %s (site admin)"
+msgstr ""
+
+#: ../settings.php:89
+msgid "Reset password (site admin only)"
+msgstr ""
+
+#: ../settings.php:121
+msgid ""
+"Email has invalid format, not updated. Other settings saved. (You may have "
+"only one e-mail in this field)."
+msgstr ""
+
+#: ../settings.php:122
+msgid "All settings successfully saved."
+msgstr ""
+
+#: ../settings.php:127
+msgid "ERROR: No settings saved, try again."
+msgstr ""
+
+#: ../settings.php:145
+msgid "Widget title:"
+msgstr ""
+
+#: ../settings.php:146
+msgid ""
+"Do you really want to leave the edit mode? (Remeber to save your work here "
+"first!)"
+msgstr ""
+
+#: ../settings.php:146
+msgid "Logout from dashboard edit"
+msgstr ""
+
+#: ../settings.php:147
+msgid "Widget text:"
+msgstr ""
+
+#: ../settings.php:149
+msgid "Contact form settings:"
+msgstr ""
+
+#: ../settings.php:150
+msgid "E-mail*:"
+msgstr ""
+
+#: ../settings.php:151
+msgid "Copy (optional):"
+msgstr ""
+
+#: ../settings.php:152
+msgid "(You can input multiple e-mails separated by a coma -  ',')"
+msgstr ""
+
+#: ../settings.php:153
+msgid "Form title:"
+msgstr ""
+
+#: ../settings.php:154
+msgid "Form message**:"
+msgstr ""
+
+#: ../settings.php:158
+msgid "Placeholders:"
+msgstr ""
+
+#: ../settings.php:159
+msgid ""
+"<strong>%SENDER_NAME%</strong> - display name of current logged - in user "
+"(you)."
+msgstr ""
+
+#: ../settings.php:160
+msgid "<strong>%SENDER_EMAIL%</strong> - e-mail of currently logged-in user (you)."
+msgstr ""
+
+#: ../settings.php:161
+msgid ""
+"<strong>%TARGET_EMAIL%</strong> - e-mail where this message will be mailed "
+"to, usually site admin."
+msgstr ""
+
+#: ../settings.php:162
+msgid ""
+"<strong>%COPY_EMAILS%</strong> - list of e-mails of additional receivers of "
+"this message."
+msgstr ""
+
+#: ../settings.php:163
+msgid "** This section is NOT automatically formatted and requires HTML elements!"
+msgstr ""
+
+#: ../settings.php:166
+msgid "Title placeholder:"
+msgstr ""
+
+#: ../settings.php:168
+msgid "Message placeholder:"
+msgstr ""
+
+#: ../settings.php:174
+msgid "Display for roles:"
+msgstr ""
+
+#: ../settings.php:174 ../settings.php:189
+msgid "Enable contact form for roles:"
+msgstr ""
+
+#: ../settings.php:198
+msgid "Save"
+msgstr ""
+
+#: ../settings.php:200
+msgid "E-mail address where will be delivered all messages from the contact form"
+msgstr ""
+
+#: ../settings.php:207
+msgid "Set or change password"
+msgstr ""
+
+#: ../settings.php:210
+msgid "Enter current password:"
+msgstr ""
+
+#: ../settings.php:211
+msgid "(Current password is blank.)"
+msgstr ""
+
+#: ../settings.php:219
+msgid ""
+"If you like this plugin, you can click on the 'Donate' button here (opens a "
+"new window) and send me 5$. Thank you!"
+msgstr ""
+
+#: ../settings.php:310
+#, php-format
+msgid "Resetting Dashboard Contact Form password for %s"
+msgstr ""
+
+#: ../settings.php:311
+#, php-format
+msgid ""
+"User <strong>%s</strong> asked you to reset Dashboard Contact Form password "
+"for <strong>%s</strong>.<br /> To reset password, click on the following url:"
+"<a target=\"_blank\" href=\"%s\">%s</a>. If you don't want reset this password, "
+"simply ignore this message."
+msgstr ""
+
+#: ../settings.php:312 ../widget.php:110
+#, php-format
+msgid ""
+"This message has been sent from <strong>%1$s</strong> at "
+"<strong>%2$s</strong> by user <strong>%3$s</strong>."
+msgstr ""
+
+#: ../settings.php:338 ../settings.php:350
+msgid "Settings"
+msgstr ""
+
+#: ../settings.php:351
+msgid "FAQ"
+msgstr ""
+
+#: ../settings.php:352
+msgid "Support"
+msgstr ""
+
+#: ../widget.php:43
+msgid "Submitting message..."
+msgstr ""
+
+#: ../widget.php:44
+msgid "Fill in all fields, some fields are empty"
+msgstr ""
+
+#: ../widget.php:77
+msgid "Title:"
+msgstr ""
+
+#: ../widget.php:82
+msgid "Your message:"
+msgstr ""
+
+#: ../widget.php:88
+msgid "Send message"
+msgstr ""
+
+#: ../widget.php:89
+msgid "Sending Message"
+msgstr ""
+
+#: ../widget.php:123
+#, php-format
+msgid "Message succesfully sent to <strong>%s</strong>"
+msgstr ""
+
+#: ../widget.php:124
+msgid "Couldn't send message."
+msgstr ""
