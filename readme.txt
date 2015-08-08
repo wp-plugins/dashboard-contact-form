@@ -3,7 +3,7 @@ Contributors: Papik81
 Tags: dashboard, message form, contact form, dashboard widget, user info
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ER96JFW7V7UJG&lc=CZ&amount=5&cy_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
 Requires at least: 3.5
-Tested up to: 4.2.2
+Tested up to: 4.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
